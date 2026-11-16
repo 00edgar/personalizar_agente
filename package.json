@@ -1,0 +1,28 @@
+{
+  "name": "embeddings",
+  "version": "1.0.0",
+  "description": "Ejemplos de creación de embeddings con gemini",
+  "keywords": [
+    "NodeJS",
+    "Embeddings",
+    "Gemini",
+    "IA"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "author": "Jakelin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^3.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
